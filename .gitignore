@@ -1,0 +1,4 @@
+# Project folder to be ignored.
+/.idea/
+/build/
+/.gradle/
