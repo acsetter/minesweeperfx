@@ -1,5 +1,8 @@
 # MinesweeperFX
 
+![hard](https://user-images.githubusercontent.com/39916941/201199482-b8fa2d28-ff98-4646-8932-0c7067ae775c.png)
+
+
 <p>
 The classic single-player puzzle game built in Java using JavaFX.
 Created as a class project for educational purposes only.
